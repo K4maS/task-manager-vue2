@@ -1,5 +1,7 @@
 # task-manager-vue2
 
+task-manager-vue2 - простое Task-приложение, созданное при помощи vue и bootstrap
+
 ## Project setup
 ```
 npm install
